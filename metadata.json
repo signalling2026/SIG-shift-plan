@@ -1,0 +1,6 @@
+{
+  "name": "Shift Planning Management",
+  "description": "Multi-role workforce dynamic shift planner, leave request approvals, real-time Excel-like grid, coverage alerts, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
